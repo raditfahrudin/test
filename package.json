@@ -1,0 +1,11 @@
+{
+  "name": "major-hindi-movies-online-at-home",
+  "version": "1.0.17",
+  "description": "6 secs ago - Still Now Here Option’s to Downloading or watching Creed III streaming the full movie online for free. Do you like movies? If so, then you’ll love New Movie: Creed III. This movie is one of the best in its genre. #Creed III will be available to watch online on Netflix's very soon!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
